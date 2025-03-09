@@ -1,0 +1,4 @@
+Command 'gradlew' not found, did you mean:
+  command 'gradle' from snap gradle (7.2)
+  command 'gradle' from deb gradle (4.4.1-20)
+See 'snap info <snapname>' for additional versions.

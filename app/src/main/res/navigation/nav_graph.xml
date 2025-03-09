@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/signInFragment">
+
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.guptamansi.ghrepo.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.guptamansi.ghrepo.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/repoDesFragment"
+        android:name="com.guptamansi.ghrepo.RepoDesFragment"
+        android:label="fragment_repo_des"
+        tools:layout="@layout/fragment_repo_des" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.guptamansi.ghrepo.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625442136875",
+    "project_id": "gh-repo-f1896",
+    "storage_bucket": "gh-repo-f1896.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625442136875:android:28942f70a0f3b7f7749b6e",
+        "android_client_info": {
+          "package_name": "com.guptamansi.ghrepo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625442136875-fh7thlvdp2ifosnvpblo2c6knf58rhh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guptamansi.ghrepo",
+            "certificate_hash": "2b67d51f6a750f2f5e1711a2e01a626125d80a05"
+          }
+        },
+        {
+          "client_id": "625442136875-sc35ugmvd5ipvpi9hqr4qnh4bfds5141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86Ei-1l_rGoYBY5YYXIrlOjch3VoM6AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625442136875-sc35ugmvd5ipvpi9hqr4qnh4bfds5141.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
